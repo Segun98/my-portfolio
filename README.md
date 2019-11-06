@@ -1,3 +1,3 @@
 # segunos.github.io
 My portfolio
-link- https://segun98.github.io/segunos.github.io/
+link- https://segun98.github.io/my-portfolio/
