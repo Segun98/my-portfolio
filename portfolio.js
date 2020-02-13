@@ -1,3 +1,5 @@
+alert('this is my old portfolio. current one is at https://segunos.tk')
+
 // DARK MODE CODES
 
 //var moon = document.querySelector(".fa-moon")
