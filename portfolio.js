@@ -3,7 +3,7 @@
 window.location.href = "http://segun.tech";
 
 // Simulate an HTTP redirect:
-window.location.replace("http://segun.tech);
+window.location.replace("http://segun.tech");
 // DARK MODE CODES
 
 //var moon = document.querySelector(".fa-moon")
